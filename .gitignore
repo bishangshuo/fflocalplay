@@ -1,0 +1,8 @@
+/qtfflocalplayer/debug/
+/qtfflocalplayer/release/
+/fflocalplayersdk/debug/
+/fflocalplayersdk/release/
+/fflocalplayersdk/.vs/
+*.dll
+*.lib
+*.exe
